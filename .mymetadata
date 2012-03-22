@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring-struts2-mybatis"
+  id="myeclipse.1331014458291"
+  context-root="/spring-struts2-mybatis"
+  j2ee-spec="5.0"
+  archive="spring-struts2-mybatis.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
